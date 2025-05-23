@@ -26,6 +26,10 @@ Questa è (sarà) la casa-archivio del lavoro svolto con gli studenti a partire 
 - https://github.com/dsii-2019-unirsm (org - archived read only)
 - https://github.com/dsii-2020-unirsm (org - archived read only)
 - https://github.com/ds-2021-unirsm (org - archived read only)
-- https://github.com/ds-2022-unirsm (org) (theatre / [wiki docs](https://github.com/ds-2022-unirsm/p5-sessions-2022-senigallia/wiki))
-- https://github.com/del-2023-unirsm (org) (theatre / [wiki docs](https://github.com/del-2023-unirsm/three-sessions-2023-senigallia/wiki))
-- https://github.com/del-2024-unirsm (org) (theatre / [wiki docs](https://github.com/del-2024-unirsm/three-sessions-2024-senigallia/wiki))
+- https://github.com/ds-2022-unirsm (org) (theatre "Macbeth" (2022) / [wiki docs](https://github.com/ds-2022-unirsm/p5-sessions-2022-senigallia/wiki))
+- https://github.com/del-2023-unirsm (org) (theatre "Le nuvole" (2023) / [wiki docs](https://github.com/del-2023-unirsm/three-sessions-2023-senigallia/wiki))
+- https://github.com/del-2024-unirsm (org) (theatre "Inseguendo Orlando" (2024) / [wiki docs](https://github.com/del-2024-unirsm/three-sessions-2024-senigallia/wiki))
+
+## A.A. 2024-25
+- 📣 [Vai al syllabus](https://github.com/digital-experience-lab-unirsm/syllabus-25)
+- 📌 [Vai al progetto per "Elena" (2025)](https://github.com/digital-experience-lab-unirsm/tagtool-sessions-2025-senigallia)
