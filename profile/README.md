@@ -3,7 +3,7 @@
 Corso di Laurea magistrale in Interaction & Experience Design @ [design.unirsm.sm](http://design.unirsm.sm)  
 Università degli Studi della Repubblica di San Marino
 
-A cura di Daniele Tabellini @fupete, con il contributo di Giuseppe D'Ambrosio, Irene Trotta, Paolo Petrangolini e tutti gli studenti e studentesse. Fate caso agli autori nei singoli commit e storie per la proprietà di singoli file, righe e contributi.
+A cura di Daniele Tabellini @fupete, con il contributo di Giuseppe D'Ambrosio @dambrosiodesigner, Irene Trotta @iretrtr, Paolo Petrangolini e tutti gli studenti e studentesse. Fate caso agli autori nei singoli commit e storie per la proprietà di singoli file, righe e contributi.
 
 ## Informazioni su questa organizzazione
 
