@@ -15,7 +15,7 @@ A cura di Daniele Tabellini @fupete, con il contributo di Giuseppe D'Ambrosio @d
 
 ### Informazioni su questa organizzazione
 
-Questa è (sarà) la casa-archivio del lavoro svolto con gli studenti a partire dal 2014 (A.A. 2013–14) a oggi (A.A. 2024–25). Con calma sposterò qui tutte le repository utili, i syllabus e la documentazione dei progetti realizzati nei diversi anni. La licenza di tutti i materiali rimane MIT con i necessari © e autori, a parte dove specificato diversamente. Come sempre tutte le cose sono appunti di studio, lavoro e ricerca e non garantite nel funzionamento o nei contenuti.
+Questa è (sarà) la casa-archivio del lavoro svolto con gli studenti a partire dal 2014 (A.A. 2013–14) a oggi (A.A. 2025–26). Con calma sposterò qui tutte le repository utili, i syllabus e la documentazione dei progetti realizzati nei diversi anni. La licenza di tutti i materiali rimane MIT con i necessari © e autori, a parte dove specificato diversamente. Come sempre tutte le cose sono appunti di studio, lavoro e ricerca e non garantite nel funzionamento o nei contenuti.
 
 ### Archivio materiali corsi dal 2013 al 2025: 
 - https://github.com/SEI-2014-UNIRSM (org - archived read only)
@@ -33,3 +33,7 @@ Questa è (sarà) la casa-archivio del lavoro svolto con gli studenti a partire 
 ## A.A. 2024-25
 - 📣 [Vai al syllabus](https://github.com/digital-experience-lab-unirsm/syllabus-25)
 - 📌 [Vai al progetto per "Elena" (2025)](https://github.com/digital-experience-lab-unirsm/tagtool-sessions-2025-senigallia)
+
+## A.A. 2025-26 _work in progress_
+- 📣 [Vai al syllabus](#)
+- 📌 [Vai al progetto per "Edito Re" (2026)](#)
