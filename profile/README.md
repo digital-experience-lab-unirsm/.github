@@ -35,5 +35,4 @@ Questa è (sarà) la casa-archivio del lavoro svolto con gli studenti a partire 
 - 📌 [Vai al progetto per "Elena" (2025)](https://github.com/digital-experience-lab-unirsm/tagtool-sessions-2025-senigallia)
 
 ## A.A. 2025-26 _work in progress_
-- 📣 [Vai al syllabus](#)
-- 📌 [Vai al progetto per "Edito Re" (2026)](#)
+- 📣 [Vai al syllabus](https://github.com/digital-experience-lab-unirsm/syllabus-26)
